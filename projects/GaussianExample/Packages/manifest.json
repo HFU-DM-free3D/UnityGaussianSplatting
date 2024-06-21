@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "com.unity.cinemachine": "2.10.0",
     "com.unity.ide.rider": "3.0.28",
+    "com.unity.recorder": "4.0.3",
     "org.nesnausk.gaussian-splatting": "file:../../../package",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
