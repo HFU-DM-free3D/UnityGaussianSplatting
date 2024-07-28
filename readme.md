@@ -40,6 +40,7 @@ We prepared multiple Gaussian Splat Assets and created corresponding Dolly Track
 - Click on Dolly Cam game object in the hierarchy and navigate in the Inspector to `CinemachineVirtualCamera -> Body -> Path`
 - Pick the Dolly Track that is named according to your GS Asset
 - Open the Unity Recorder `Window -> General -> Recorder -> Recorder Window`
+- Add Recorder (Movie)
 - Choose desired settings and export your e.g. .mp4 file
 
 ## 
