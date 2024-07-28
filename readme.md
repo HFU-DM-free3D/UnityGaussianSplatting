@@ -35,7 +35,7 @@ We also excluded them because of their large file size.
 The game object "pcd_vid" has a `Point Cloud Loader` script, **point the Json File to** one of your animated Pointclouds/Json File.
 Furthermore you can choose the Animation Mode (Loop/Boomerang).
 
-We prepared multiple Gaussian Splat Assets and created corresponding Dolly Tracks.
+We prepared multiple [Gaussian Splat Assets](https://bwsyncandshare.kit.edu/s/pR2k8AjnxjQeaeq) and created corresponding Dolly Tracks.
 - Choose desired GS Asset and activate the corresponding game object in the hierachy
 - Click on Dolly Cam game object in the hierarchy and navigate in the Inspector to `CinemachineVirtualCamera -> Body -> Path`
 - Pick the Dolly Track that is named according to your GS Asset
